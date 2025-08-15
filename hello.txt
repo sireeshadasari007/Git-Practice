@@ -1,1 +1,2 @@
 hello git
+added from newly created branch
